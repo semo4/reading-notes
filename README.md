@@ -33,6 +33,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+~~This was mistaken text~~
+
 - Bulleted
 - List
 
@@ -45,5 +47,8 @@ First Header | Second Header
 ------------ | -------------
 test 1 | description 1
 test 2 | description 2
+
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 ```
 
