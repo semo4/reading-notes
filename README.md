@@ -1,5 +1,13 @@
 ## Welcome My Reading note
 
+### Mindset:
+*the mindset make me a good student before gradutated and a good programmer after gradutated *
+1. mindset when i was a student:
+*let me talk what do midset with me in unversity it make me to challange my self to by good student it change my thought because some student in my majer that they have know some thing that i do not know yet so it make me to start to search and learn new thing that help me to improve my skills and knowledge for that resone I gradutated in first place of my majer (software engineering) *
+2. mindset after gradutated :
+*the mindset make me to alwayas hunger for knowledge and know a new things and love to try new thing and challange me self to achieve the next level *
+
+
 You can use the [editor on GitHub](https://github.com/semo4/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
