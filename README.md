@@ -11,6 +11,12 @@
     the mindset make me to alwayas hunger for knowledge and know a new things and love to try new thing and challange me self to achieve the next level 
 
 
+### reminders for me is :
+    1. there some poeple know somthing i do not know 
+    2. to be good programmer i should keep learn new thing 
+    3. the technolege field update rapidly 
+    
+
 You can use the [editor on GitHub](https://github.com/semo4/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
