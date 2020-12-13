@@ -48,6 +48,7 @@ First Header | Second Header
 test 1 | description 1
 test 2 | description 2
 
-![github-small](https://user-images.githubusercontent.com/34076117/102017832-e6efb500-3d71-11eb-98b9-ff322a976fc1.png)
+![](images/file.png)
+![](images/2911462_0-removebg-preview.png)
 ```
 
