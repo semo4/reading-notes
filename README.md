@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome My Reading note
 
 You can use the [editor on GitHub](https://github.com/semo4/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
