@@ -62,5 +62,5 @@ test 2 | description 2
 
 
 # Intro about class 03 
-[Git Tool](https://github.com/semo4/reading-notes/tree/main/class_03) 
+[Git Tool](https://semo4.github.io/reading-notes/class_03) 
 
