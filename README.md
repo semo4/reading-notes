@@ -20,6 +20,7 @@ As man carries multi background in multiple fields Programming, networking and d
 
 - [Growth mindset](https://semo4.github.io/reading-notes/Growth-mindset)
 - [Git](https://semo4.github.io/reading-notes/Git)
+- [Design Structure](https://semo4.github.io/reading-notes/Design-Structure)
 
 
 
