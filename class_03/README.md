@@ -26,6 +26,8 @@
     2.cd : to change your directory
     3.mkdir : to create new directory
     3.touch: to create files
+    
+    
 ## some git commend that will help you
     1.git init : to create new repostory on your device 
     2.git clone : to download repostory from github to your device
