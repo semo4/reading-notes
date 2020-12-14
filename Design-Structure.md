@@ -8,7 +8,7 @@
 2. 0. there is two type of audience 
    - individuals
    - Companies
-   -and this some of question:
+   - and this some of question:
    
       1. Who is the site For ?
       Every website should be designed for the target audience and not just for yourself or the site owner.You should know if your vistitors are individuals or companies and if they are individuals you should know thier age and the area they live in .. etc.
