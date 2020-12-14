@@ -62,22 +62,13 @@ the reason for that.
 **Name** | **Html Tag**
 
 ------------ | -------------
-
 Headers  |   ```<header>```
-
 Footers |    ```<footer>```
-
 Navigation | ```<nav>```
-
 Articles|   ```<article>```
-
 Asides  |    ```<aside>```  
-
 Sections| ```<section>```
-
 Heading Groups |```<hgroup>```
-
 Figures|   ```<figure> <figcaption>```
-
 Sectioning El ements|```<div>```
 
