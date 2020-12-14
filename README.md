@@ -1,66 +1,27 @@
-## Welcome My Reading note
 
-### Mindset:
- the mindset make me a good student before gradutated and a good programmer after gradutated 
-1. mindset when i was a student:
-
-    let me talk what do midset with me in unversity it make me to challange my self to by good student it change my thought because some student in my majer that they have know     some thing that i do not know yet so it make me to start to search and learn new thing that help me to improve my skills and knowledge for that resone I gradutated in first     place of my majer (software engineering) 
-
-2. mindset after gradutated :
-
-    the mindset make me to alwayas hunger for knowledge and know a new things and love to try new thing and challange me self to achieve the next level 
+![My Image](images/D.jpg)
 
 
-### reminders for me is :
-    1. there some poeple know somthing i do not know 
-    2. to be good programmer i should keep learn new thing 
-    3. the technolege field update rapidly 
-    
+# Osama Yousef
+Software enginner 
+Cisco Certified Network Associate
+BackEnd developer in python
 
+## About me
+My name Is Osama Yousef 
+As man carries multi background in multiple fields Programming, networking and development,  I’m proficient in Pyhton, android, Mysql, Flask, Django and web development.
 
+## Contact Info
+- Whatsapp: +++++++
+- Email: fotboy1788@hotmail.com
+- GitHub: [My GitHub](https://github.com/semo4)
 
-### Markdown
+## Table of content
 
-You can use the [editor on GitHub](https://github.com/semo4/reading-notes/edit/main/README.md) 
-> We're living the future so
-
-> the present is our past.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-~~This was mistaken text~~
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-First Header | Second Header
------------- | -------------
-test 1 | description 1
-test 2 | description 2
-
-
-```
-
-#Images  
-
-:smiling_face_with_three_hearts:
-:relaxed:
-
-![](images/file.png)
-![](images/2911462_0-removebg-preview.png)
+- [Growth mindset](https://semo4.github.io/reading-notes/Growth-mindset)
+- [Git](https://semo4.github.io/reading-notes/Git)
 
 
 
-# Intro about class 03 
-[Git Tool](https://semo4.github.io/reading-notes/class_03/README) 
+
 
