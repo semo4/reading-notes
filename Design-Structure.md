@@ -56,15 +56,28 @@ the reason for that.
 
 3. after first two step it start to explain each element in HTML5 
 
+
 ## some html Tags
+
 **Name** | **Html Tag**
+
 ------------ | -------------
+
 Headers  |   ```<header>```
+
 Footers |    ```<footer>```
+
 Navigation | ```<nav>```
+
 Articles|   ```<article>```
+
 Asides  |    ```<aside>```  
+
 Sections| ```<section>```
+
 Heading Groups |```<hgroup>```
+
 Figures|   ```<figure> <figcaption>```
+
 Sectioning El ements|```<div>```
+
