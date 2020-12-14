@@ -8,25 +8,25 @@
 2. 0. there is two type of audience 
    - individuals
    - Companies
-and this some of question:
-2. 1. Who is the site For ?
-Every website should be designed for the target audience and not just for yourself or the site owner.You should know if your vistitors are individuals or companies and if they are individuals you should know thier age and the area they live in .. etc.
+   -and this some of question:
+   
+      1. Who is the site For ?
+      Every website should be designed for the target audience and not just for yourself or the site owner.You should know if your vistitors are individuals or companies and if they are individuals you should know thier age and the area they live in .. etc.
 
-2. 2. Why PeoPle visit your Website ?
-Here you should search for your vistors Key motivations and specific goals.
+      2. Why PeoPle visit your Website ?
+      Here you should search for your vistors Key motivations and specific goals.
 
-2. 3. What your visitors are trying to achieve ?
-You should create a list of reasons why people would be coming to your site. 
+      3. What your visitors are trying to achieve ?
+      You should create a list of reasons why people would be coming to your site. 
 
-2. 4. What information your visitors need ?
-Now you need to work out what information they need in order to achieve their goals quickly and effectively.
+      4. What information your visitors need ?
+      Now you need to work out what information they need in order to achieve their goals quickly and effectively.
 
-2. 5. How often people will visit your site ?
-Working out how often people are likely to revisit your site gives you an indication for how often you should update the site.
+      5. How often people will visit your site ?
+      Working out how often people are likely to revisit your site gives you an indication for how often you should update the site.
 
 
       
-
 3. it determain why poeple will visit the website we will design and 
 the reason for that.
 
