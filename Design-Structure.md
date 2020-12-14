@@ -59,12 +59,12 @@ the reason for that.
 ## some html Tags
 **Name** | **Html Tag**
 ------------ | -------------
-Headers  |    <header> 
-Footers |    <footer>
-Navigation | <nav>
-Articles|   <article>
-Asides  |    <aside>  
-Sections| <section>
-Heading Groups |<hgroup>
-Figures|   <figure> <figcaption>
-Sectioning El ements|<div>
+Headers  |    '''<header>'''
+Footers |    '''<footer>'''
+Navigation | '''<nav>'''
+Articles|   '''<article>'''
+Asides  |    '''<aside>'''  
+Sections| '''<section>'''
+Heading Groups |'''<hgroup>'''
+Figures|   '''<figure> <figcaption>'''
+Sectioning El ements|'''<div>'''
