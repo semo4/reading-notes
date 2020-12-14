@@ -6,7 +6,7 @@ thats for sure but this factors determin just the start poin of human life. But 
 On the contrary, there are those who find that they do not need this effort and can achieve success only with their genes and those they have fixed mindset.
 
 Take a look on the illustartion to see the differences between a fixed and a growth mindset:
-![Image](image/1.png)
+![Image](image/a.png)
 
 ## How I can maintaining a growth mindset ?
 

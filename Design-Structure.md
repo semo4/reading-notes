@@ -34,11 +34,11 @@ the reason for that.
 
 5. It explain how will by site map and how many section will be in our website
 
-![](images/2.png)
+![](images/b.png)
 
 6. there is also Wireframe it is simply sketch to explain what is the information in each page
 
-![](images/3.png)
+![](images/c.png)
 
 7. In this Chapter also show us how to organizing content in each page to make users understand what is important and what is not.
 
@@ -50,7 +50,7 @@ the reason for that.
 
 1. It show us the traditional Layout and what is the div tag and what used to divide the page with div by indicate the role of it 
 
-![](images/4.png)
+![](images/d.png)
 
 2. what is the new HTML5 layout element is and how they help to divide the page easly
 
