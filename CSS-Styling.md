@@ -42,7 +42,7 @@
 ### External 
 - we can use CSS as external file and link it in html by write *Link tag inside head tag*
 
-![Image](images/ex.png)
+![Image](images/ex.jpg)
 
 
 # Color Rules Of CSS
