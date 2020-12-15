@@ -22,6 +22,7 @@ As man carries multi background in multiple fields Programming, networking and d
 - [Git](https://semo4.github.io/reading-notes/Git)
 - [Design Structure](https://semo4.github.io/reading-notes/Design-Structure)
 - [CSS Styling](https://semo4.github.io/reading-notes/CSS-Styling)
+- [JavaScript](https://semo4.github.io/reading-notes/JavaScript)
 
 
 
