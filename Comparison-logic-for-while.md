@@ -26,5 +26,5 @@ _<=_ (Less than or Equal to)|Checks if the value of the left operand is less tha
 **Operater** | **Descriptions** |**Example**
 ------------ | -----------------|-----------------
 && (Logical AND)|If both the operands are non-zero, then the condition becomes true.|Ex: (A && B) is true.
-```||```(Logical OR)|If any of the two operands are non-zero, then the condition becomes true.|Ex: (A || B) is true.
+```|``````|```(Logical OR)|If any of the two operands are non-zero, then the condition becomes true.|Ex: (A || B) is true.
 ! (Logical NOT)|Reverses the logical state of its operand. If a condition is true, then the Logical NOT operator will make it false|Ex: ! (A && B) is false.
