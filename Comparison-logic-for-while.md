@@ -8,8 +8,8 @@
 ------------ | -----------------|-----------------
 == (Equal)| Checks if the value of two operands are equal or not, if yes, then the condition becomes true.|Ex: (A == B) is not true.
 != (Not Equal)| Checks if the value of two operands are equal or not, if the values are not equal, then the condition becomes true.|Ex: (A != B) is true.
-> (Greater than)| Checks if the value of the left operand is greater than the value of the right operand, if yes, then the condition becomes true.|Ex: (A > B) is not true..
-< (Less than)| Checks if the value of the left operand is less than the value of the right operand, if yes, then the condition becomes true.|Ex: (A < B) is true.
+_>_ (Greater than)| Checks if the value of the left operand is greater than the value of the right operand, if yes, then the condition becomes true.|Ex: (A > B) is not true..
+_<_ (Less than)| Checks if the value of the left operand is less than the value of the right operand, if yes, then the condition becomes true.|Ex: (A < B) is true.
 >= (Greater than or Equal to)| Checks if the value of the left operand is greater than or equal to the value of the right operand, if yes, then the condition becomes true.|Ex: (A >= B) is not true.
 <= (Less than or Equal to)|Checks if the value of the left operand is less than or equal to the value of the right operand, if yes, then the condition becomes true.|Ex: (A <= B) is true.
 
@@ -26,5 +26,5 @@
 **Operater** | **Descriptions** |**Example**
 ------------ | -----------------|-----------------
 && (Logical AND)|If both the operands are non-zero, then the condition becomes true.|Ex: (A && B) is true.
-|| (Logical OR)|If any of the two operands are non-zero, then the condition becomes true.|Ex: (A || B) is true.
+_||_(Logical OR)|If any of the two operands are non-zero, then the condition becomes true.|Ex: (A || B) is true.
 ! (Logical NOT)|Reverses the logical state of its operand. If a condition is true, then the Logical NOT operator will make it false|Ex: ! (A && B) is false.
