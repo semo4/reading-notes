@@ -1,6 +1,10 @@
 # Comparison and logical operators
 
 ## Comparison 
+
+![My Image](images/comp.png)
+
+
 - JavaScript supports Many comparison operators.
 - let's take example Assume variable A holds 10 and variable B holds 20 then we will take all operaters 
 
