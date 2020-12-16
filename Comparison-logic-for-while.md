@@ -10,8 +10,8 @@
 != (Not Equal)| Checks if the value of two operands are equal or not, if the values are not equal, then the condition becomes true.|Ex: (A != B) is true.
 _>_ (Greater than)| Checks if the value of the left operand is greater than the value of the right operand, if yes, then the condition becomes true.|Ex: (A > B) is not true..
 _<_ (Less than)| Checks if the value of the left operand is less than the value of the right operand, if yes, then the condition becomes true.|Ex: (A < B) is true.
->= (Greater than or Equal to)| Checks if the value of the left operand is greater than or equal to the value of the right operand, if yes, then the condition becomes true.|Ex: (A >= B) is not true.
-<= (Less than or Equal to)|Checks if the value of the left operand is less than or equal to the value of the right operand, if yes, then the condition becomes true.|Ex: (A <= B) is true.
+_>=_ (Greater than or Equal to)| Checks if the value of the left operand is greater than or equal to the value of the right operand, if yes, then the condition becomes true.|Ex: (A >= B) is not true.
+_<=_ (Less than or Equal to)|Checks if the value of the left operand is less than or equal to the value of the right operand, if yes, then the condition becomes true.|Ex: (A <= B) is true.
 
 
 
